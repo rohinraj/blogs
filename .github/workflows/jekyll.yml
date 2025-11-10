@@ -46,7 +46,7 @@ jobs:
           sudo apt-get install -y build-essential libffi-dev ruby-dev libssl-dev libxml2-dev libxslt1-dev
           gem install sass-embedded --no-document
           gem install bundler
-          bundle install --verbose --trace
+          bundle install
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

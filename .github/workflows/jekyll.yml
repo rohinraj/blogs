@@ -42,6 +42,7 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Install dependencies
         run: |
+          apt-get install -y build-essential libffi-dev ruby-dev
           gem install bundler
           bundle install
       - name: Setup Pages

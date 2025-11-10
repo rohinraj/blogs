@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Build a Custom Linux OS for Raspberry Pi 5 with Yocto (Scarthgap Release)"
+title: "Build a Custom Linux based OS for Raspberry Pi 5 with Yocto"
 date: 2025-11-07 11:00:00
 categories: jekyll update
 tags: [linux, os, raspberrypi, yocto, embedded-systems, scarthgap, custom-linux, custom-os, operating system]

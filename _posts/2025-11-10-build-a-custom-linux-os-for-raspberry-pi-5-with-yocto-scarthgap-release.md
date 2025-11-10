@@ -7,7 +7,7 @@ tags: [linux, os, raspberrypi, yocto, embedded-systems, scarthgap, custom-linux,
 ---
 
 
-# Build a Custom Linux OS for Raspberry Pi 5 with Yocto (Scarthgap Release)
+# Build a Custom Linux based OS for Raspberry Pi 5 with Yocto (Scarthgap Release)
 
 
 If you've ever wanted to tailor a Linux system exactly for your hardware, the **Yocto Project** is your go-to toolkit. 
@@ -18,7 +18,7 @@ Wait, What is Yocto?
 It’s not an embedded Linux distribution, it creates a custom one for you. 
 
 
-In this quick guide, we’ll walk through building a **custom OS image** for the **Raspberry Pi 5**, using the **Scarthgap** release of **Yocto** — from environment setup to booting your own image.
+In this quick guide, we’ll walk through building a **custom OS image** for the **Raspberry Pi 5**, using the **Scarthgap** release of **Yocto**, from environment setup to booting your own image.
 
 
 ---
@@ -27,11 +27,11 @@ In this quick guide, we’ll walk through building a **custom OS image** for the
 ## Why Yocto and Raspberry Pi 5?
 
 
-The Yocto Project lets you build a custom Linux system from the ground up — only what your project needs, nothing extra.
+The Yocto Project lets you build a custom Linux system from the ground up, only what your project needs, nothing extra.
 The Raspberry Pi 5 brings improved performance, modern interfaces, and strong community support, making it a great choice for experimentation and real-world deployment.
 
 
-Together, they form a powerful platform for IoT and embedded development — whether you’re building a lightweight sensor gateway, a connected controller, or a fully featured edge device.
+Together, they form a powerful platform for IoT and embedded development, whether you’re building a lightweight sensor gateway, a connected controller, or a fully featured edge device.
 
 
 As a well-known and easily available development board, the Raspberry Pi is ideal for demonstrating how to design, build, and customize your own embedded operating system.
